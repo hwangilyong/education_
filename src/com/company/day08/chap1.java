@@ -1,4 +1,4 @@
-/*package com.company.day08;
+package com.company.day08;
 
 public class chap1 {
 
@@ -9,4 +9,3 @@ public class chap1 {
         System.out.println(grade);
     }
 }
-*/
